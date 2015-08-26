@@ -12,7 +12,7 @@ __Ironhee (이철희)__
   - 간단한 퍼블리싱
   - [flask](https://github.com/mitsuhiko/flask) 를 이용하여 백엔드 개발
   - [jquery](https://github.com/jquery/jquery) + [bootstrap](https://github.com/twbs/bootstrap) + [DataTables](https://github.com/DataTables/DataTables) 등을 이용하여 프론트엔드 개발.
-  - 본 서버로 [Request](https://github.com/kennethreitz/requests) 를 이용하여 API 호출하도록 구현.
+  - 본 서버로 [Requests](https://github.com/kennethreitz/requests) 를 이용하여 API 호출하도록 구현.
   - Git 으로 소스관리. http://mobicon.tistory.com/49 git branch 관리 전략을 사용
 
 [__Ediket__](https://ediket.com/)
