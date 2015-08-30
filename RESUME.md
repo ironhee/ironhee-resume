@@ -47,6 +47,18 @@ __Ironhee (이철희)__
   - HTTP API -> [jsonapi](http://jsonapi.org/): 기존의 api를 jsonapi 스펙을 따르도록 변경. 주로 프론트엔드 Model 단을 다룸.
   - [jsonapi.js](https://github.com/json-api/json-api) 제작 및 유지보수
 
+[__애드투페이퍼__](http://add2paper.com/about/)
+---
+2015년 10월 (입사 확정) ~ 
+
+- 업무 (프론트엔드):
+  - Android
+    - Java -> [Golang](https://golang.org/) 일부 포팅 
+  - iOS
+    - ObjectiveC -> [Swift](https://developer.apple.com/swift/) 포팅
+  - Web
+    - [jquery](https://github.com/jquery/jquery) -> [React](https://github.com/facebook/react): View 로직 변경 및 리펙토링. 
+
 __개인 프로젝트__
 ---
 
