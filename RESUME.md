@@ -46,10 +46,16 @@ __Ironhee (이철희)__
       - Nunjucks 이용하여 언어별로 template 빌드.
   - HTTP API -> [jsonapi](http://jsonapi.org/): 기존의 api를 jsonapi 스펙을 따르도록 변경. 주로 프론트엔드 Model 단을 다룸.
   - [jsonapi.js](https://github.com/json-api/json-api) 제작 및 유지보수
+  - 프론트엔드 전용 Mock RESTful jsonapi 서버 구현 및 사용.
+  - [react-router](https://github.com/rackt/react-router) 도입하여 SPA 로 변경.
+  - [socket.io](https://github.com/socketio/socket.io) 이용하여 실시간 환경 도입.
+  - [OfficeOpenXml](http://officeopenxml.com/) 표준을 준수한, DOCX(Word) Viewer 구현.
+  - [Relay](https://github.com/facebook/relay) + [GraphQL](https://github.com/facebook/graphql) 이용하여, 기존 프론트 스택 변경작업중...
 
 __개인 프로젝트__
 ---
 
 - [step-by-step-frontend](https://github.com/ironhee/step-by-step-frontend): 프론트엔드 개발에 익숙하지 않는 개발자들이 쉽게 프론트엔드 최신 기술들을 하나하나씩 적용해가며 웹 사이트를 조금씩 성장시킬 수 있도록 만든 프로젝트.
+- [ironhee-frontend-boilerplate](https://github.com/ironhee/ironhee-frontend-boilerplate) 빠르게 최신 프론트엔드 라이브러리 + 프레임워크를 이용한 프로젝트를 시작할 수 있도록 돕는 프로젝트.
 - [jsonapi.js](https://github.com/ironhee/jsonapi.js): [jsonapi](http://jsonapi.org/) 라이브러리
 - [beerr](https://github.com/ironhee/beerr)(개발중): Github Page + Travis + FIrebase 를 이용하여, 별도의 백엔드 없이 배포 및 데이터 관리가 가능하도록 만든 맥주 평가 사이트.
